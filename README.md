@@ -20,9 +20,3 @@ The project features two distinct components:
 *   **Graph Theory & Algorithms:** NetworkX
 *   **Data Visualization:** Matplotlib
 
-## 🚀 How to Run Locally
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/LaxmiChandrahaas/Deadlock-System-using-Resource-Allocation-Graphs.git
-cd Deadlock-System-using-Resource-Allocation-Graphs
